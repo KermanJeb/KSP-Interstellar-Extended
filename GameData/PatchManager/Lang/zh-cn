@@ -1,0 +1,32 @@
+Localization
+{
+        zh-cn
+        {
+            pm_gameSaved = [<<1>>] 游戏已保存
+            pm_cantSave = [<<1>>] 无法保存游戏
+            pm_exitIn = <<1>> 秒后退出
+            pm_abort = 按 <<1>> 中止操作
+            pm_exitIng = 退出，bye
+            pm_in = 在 <<1>> 秒后
+            pm_now = 现在
+
+			pm_overrideinfo = 如果由于依赖关系而没有修补程序，这将覆盖隐藏按钮的功能。
+			pm_doesNot = 这不会解除/启用mod，您可以在标准设置中这样做：
+			pm_alwaysShow = 始终显示工具栏按钮
+			pm_disablethis = 禁用此选项可将活动修补程序存储在修补程序的mod文件夹中。
+			pm_storeactive = 将活动修补程序存储在PatchManager文件夹中
+			pm_ok = OK
+			pm_changesmade1 =通过安装/卸载一个或
+			pm_changesmade2 = 在游戏重新启动之前，更多的补丁将不会生效。
+			pm_changesmade3 = 你现在可以使用下面的第二个按钮关闭游戏，
+			pm_changesmade4 = 当前游戏将在关机前保存。
+			pm_ack = 已确认
+			pm_shutdown = 关闭坎巴拉
+			pm_applyall = 全部应用
+			pm_cancel = 取消
+			pm_settings = 设置
+			pm_patchmanager = 补丁管理器
+			pm_restart = 重新启动信息
+			pm_settingstitle = 补丁管理器设置
+        }
+}
