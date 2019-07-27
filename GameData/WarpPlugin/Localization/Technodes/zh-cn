@@ -1,0 +1,293 @@
+Localization
+{
+	zh-cn
+	{
+		#LOC_CTT_nuclearPower_title =  核电
+		#LOC_CTT_nuclearPower_description =  核反应堆可以使动力呢！使用这个方便的套件开始自己的工作。
+		#LOC_CTT_nuclearFuelSystems_title =  核燃料系统
+		#LOC_CTT_nuclearFuelSystems_description =  因为核燃料将不只是回收本身。或者自己移动。或者做很多事情，除了愤怒地盯着我们，真的。
+
+		#LOC_CTT_advNuclearPower_title =  高能核电
+		#LOC_CTT_advNuclearPower_description =  弗莱在秒的蛋。事实上，在几秒钟内就可以炒任何东西。
+
+		#LOC_CTT_expNuclearPower_title =  实验核电
+		#LOC_CTT_expNuclearPower_description =  具有不同几何形状的核心和核心状态进行实验，以更小的空间产生更多的热量。
+
+		#LOC_CTT_largeNuclearPower_title =  改进核电
+		#LOC_CTT_largeNuclearPower_description =  记住，不要把你的反应太靠近你的栖息地。万圣节你不希望你的Kerbals在黑暗中发光！
+
+		#LOC_CTT_expNuclearPower_title =  实验核电
+		#LOC_CTT_expNuclearPower_description =  具有不同几何形状的核心和核心状态进行实验，以更小的空间产生更多的热量。
+
+		#LOC_KSPIE_exoticNuclearPower_title =  异域核电
+		#LOC_KSPIE_exoticNuclearPower_description = 好了，我们在这里，推裂变反应堆技术的边界推进到新的和有趣的状态。
+
+		#LOC_CTT_fusionPower_title = 融通动力
+		#LOC_CTT_fusionPower_description = 发电的圣grrraiiiil。廉价的燃料和大量的电力。
+
+		#LOC_CTT_advFusionReactions_title = 高级聚变反应
+		#LOC_CTT_advFusionReactions_description = 原来你可以融合几乎任何东西，包括杰布的奶酪三明治！
+
+		#LOC_CTT_exoticReactions_title = 异域熔合反应
+		#LOC_CTT_exoticReactions_description = 有了足够的研究经费，我们可以买到新材料与高能粒子轰击。
+
+		#LOC_CTT_quantumReactions_title = 高密度熔合反应
+		#LOC_CTT_quantumReactions_description = 测量和应用中最复杂的聚变反应在那里。
+
+		#LOC_KSPIE_extremeReactions_title = 至尊密度聚变反应
+		#LOC_KSPIE_extremeReactions_description = 测量和应用最极端的聚变反应在那里。
+
+		#LOC_CTT_antimatterPower_title = 反物质动力
+		#LOC_CTT_antimatterPower_description = 真正治理小颗粒的力量，创造惊人的大爆炸。
+
+		#LOC_CTT_unifiedFieldTheory_title = 统一场论
+		#LOC_CTT_unifiedFieldTheory_description = 统一所有物理学的理论成一个长的，荒谬的，黑板摧毁方程已经为我们带来丰厚的收入。
+	
+		#LOC_KSPIE_quantumGravity_title = 量子引力
+		#LOC_KSPIE_quantumGravity_description = 量子重力是理论物理学的领域，旨在根据量子力学的原理来描述的重力，并且其中量子效应不能被忽略。
+
+
+		#LOC_CTT_improvedNuclearPropulsion_title = 改进核推进
+		#LOC_CTT_improvedNuclearPropulsion_description = 霍特核心，更好的发动机。
+
+		#LOC_CTT_advNuclearPropulsion_title = 高效率的核推进
+		#LOC_CTT_advNuclearPropulsion_description = 研究提高我国核引擎的功率。老板，这不可能比这更好！
+
+		#LOC_CTT_expNuclearPropulsion_title = 实验核推进
+		#LOC_CTT_expNuclearPropulsion_description = 有人说，核电是基本上开水真正昂贵的方式。我们不同意 - 我们现在可以煮几乎*任何东西！
+
+		#LOC_CTT_exoticNuclearPropulsion_title = 异域情调的核推进
+		#LOC_CTT_exoticNuclearPropulsion_description = 研成奇怪的，怪异的，一切的一切，出疯狂的核推进的形式。
+
+		#LOC_CTT_fusionRockets_title = 聚变火箭
+		#LOC_CTT_fusionRockets_description =  这些火箭会尽自己所能，使一切过时。
+
+		#LOC_KSPIE_advFusionRockets_title = 高级聚变火箭
+		#LOC_KSPIE_advFusionRockets_description = 这些火箭会尽自己所能，使一切过时。
+
+		#LOC_KSPIE_specializedFusionRockets_title = 专业聚变火箭
+		#LOC_KSPIE_specializedFusionRockets_description = 这些火箭会尽自己所能，使一切过时。
+
+		#LOC_KSPIE_exoticFusionRockets_title = 外来聚变火箭
+		#LOC_KSPIE_exoticFusionRockets_description = 这些火箭会尽自己所能，使一切过时。
+
+		#LOC_KSPIE_extremeFusionRockets_title = 至尊核聚变火箭
+		#LOC_KSPIE_extremeFusionRockets_description = 这些火箭会尽自己所能，使一切过时。
+
+		#LOC_CTT_experimentalRocketry_title = 实验性火箭
+		#LOC_CTT_experimentalRocketry_description = 不要采取“实验”掉以轻心。
+
+		#LOC_CTT_giganticRocketry_title = 巨型火箭技术
+		#LOC_CTT_giganticRocketry_description = 尽管诋毁我们一再声称相反，我们可以建造它做大。
+
+		#LOC_CTT_colossalRocketry_title = 巨型火箭技术
+		#LOC_CTT_colossalRocketry_description = 在我们的竞争对手另一个单了。我们可能需要更大的发射台......
+
+		#LOC_CTT_specializedFuelStorage_title = 专业燃料储存
+		#LOC_CTT_specializedFuelStorage_description = 由于燃料通过我们的一些坦克两侧渗出，我们已经计划了一些改进燃料容器系统。
+
+		#LOC_CTT_exoticFuelStorage_title = 异域燃料贮存
+		#LOC_CTT_exoticFuelStorage_description = 保存那些真正昂贵的，真正看中的燃料可以得到真正昂贵和真正看中的。
+
+		#LOC_CTT_extremeFuelStorage_title = 至尊燃料储存
+		#LOC_CTT_extremeFuelStorage_description = 极端条件下储存燃料-等压缩到中子星的密度。
+
+		#LOC_KSPIE_CTT_title = 稀有合金
+		#LOC_CTT_exoticAlloys_description = 只有最棘手的和最轻的合金的被允许进入这种排他性俱乐部。
+
+		#LOC_CTT_offworldManufacturing_title = 离世界机器人
+		#LOC_CTT_offworldManufacturing_description = 研究如何创建复杂的机器人系统，包括工厂组装线...在空间！
+
+		#LOC_CTT_orbitalMegastructures_title = 轨道巨型结构
+		#LOC_CTT_orbitalMegastructures_description = 最大，最重的商店页面建设项目。
+
+		#LOC_CTT_orbitalAssembly_title = 轨道装配
+		#LOC_CTT_orbitalAssembly_description = 在Kerbin大楼的建造被高估了。现在在轨道上建造物品现在只是过于昂贵。
+
+		#LOC_CTT_advActuators_title = 高级执行器
+		#LOC_CTT_advActuators_description = 为使一切移动与电动机的帮助下高级技术。
+
+		#LOC_CTT_experimentalActuators_title = 实验执行器
+		#LOC_CTT_experimentalActuators_description = 你永远不能有太多的流动性。
+
+		#LOC_CTT_subsonicFlight_title = 亚音速飞行
+		#LOC_CTT_subsonicFlight_description = 有时候，这是不够的要快。
+
+		#LOC_CTT_efficientFlightSystems_title = 高效的飞行系统
+		#LOC_CTT_efficientFlightSystems_description = 谁能想到？有时候，我们想要慢一些并且使用少量燃料。
+
+		#LOC_CTT_specializedFlightSystems_title = 专业飞行系统
+		#LOC_CTT_specializedFlightSystems_description = 有时候，你需要少一些飞机。
+
+		#LOC_CTT_expAircraftEngines_title = 实验飞机发动机
+		#LOC_CTT_expAircraftEngines_description = 发动机用于飞机，火箭没有。不过，我想你可以发挥创意。
+
+		#LOC_CTT_aerospaceComposites_title = 航天复合材料
+		#LOC_CTT_aerospaceComposites_description = 光的，耐热的和坚韧的。
+
+		#LOC_CTT_advAerospaceEngineering_title = 高级航空航天工程
+		#LOC_CTT_advAerospaceEngineering_description = 尖尖的形状，生硬的形状以及它们如何与气流相互作用。
+
+		#LOC_CTT_enhancedSurvivability_title = 增强生存能力
+		#LOC_CTT_enhancedSurvivability_description = 通过提高我们的飞行员的生存能力降低含泪告别的数量。
+
+		#LOC_CTT_simpleCommandModules_title = 简单的命令模块
+		#LOC_CTT_simpleCommandModules_description = 那些小步进入太空司令部模块。
+
+		#LOC_CTT_heavyCommandModules_title = 重命令模块
+		#LOC_CTT_heavyCommandModules_description = 大航天器需要更大的命令模块。
+
+		#LOC_CTT_specializedCommandModules_title = 专用命令模块
+		#LOC_CTT_specializedCommandModules_description = 花式，专门建造的飞船需要花哨的专用命令模块。
+
+		#LOC_CTT_advOffworldMining_title = 高级关-世界矿业
+		#LOC_CTT_advOffworldMining_description = 采矿设施开辟了巨大的可能性。我们正在考虑聘请石油钻井平台工人来帮忙。
+
+		#LOC_CTT_resourceExploitation_title = 资源开发
+		#LOC_CTT_resourceExploitation_description = 还有的在这里赚到钱！钻宝宝钻！
+
+		#LOC_CTT_specializedScienceTech_title = 专业科学技术
+		#LOC_CTT_specializedScienceTech_description = 科学技术，其使用说明书比设备本身较厚。
+
+		#LOC_CTT_longTermScienceTech_title = 长期科学技术
+		#LOC_CTT_longTermScienceTech_description = 一些科学实验需要可笑长的持续时间。数据分析可能需要更长时间！
+
+		#LOC_CTT_scientificOutposts_title = 科学前哨
+		#LOC_CTT_scientificOutposts_description = 献身科学的声音就像伟大的想法，我们整个基地。
+
+		#LOC_CTT_highEnergyScience_title = 高能源科学
+		#LOC_CTT_highEnergyScience_description = 自2001年起做一个粒子加速器内科学。
+
+		#LOC_CTT_appliedHighEnergyPhysics_title = 应用高能物理
+		#LOC_CTT_appliedHighEnergyPhysics_description = 运用高能量的科学技术，我们的物理研究技术成果在一些可观的收益。
+	
+		#LOC_CTT_ultraHighEnergyPhysics_title = 超高能物理
+		#LOC_CTT_ultraHighEnergyPhysics_description = 原来，这是科幻！
+
+		#LOC_KSPIE_extremeHighEnergyPhysics_title = 极端高能物理
+		#LOC_KSPIE_extremeHighEnergyPhysics_description = 物理学推到了极致！
+
+		#LOC_KSPIE_fasterThanLightTech_title = 比光更快
+		#LOC_KSPIE_fasterThanLightTech_description = 大胆地去商店页面没有之前已经。
+
+		#LOC_CTT_mechatronics_title = 机电一体化
+		#LOC_CTT_mechatronics_description = 机器人为主导的一统天下的谣言是大大夸大了。
+
+		#LOC_CTT_artificialIntelligence_title = 人工智能
+		#LOC_CTT_artificialIntelligence_description = 更智能的电脑来帮助他们进行“正确的决定”我们的飞行员作出。
+
+		#LOC_CTT_advIonPropulsion_title = 先进的离子推进器
+		#LOC_CTT_advIonPropulsion_description = 的R＆d部门已经向我们保证，这些技术将作出巨大的宣传照片。
+
+		#LOC_CTT_plasmaPropulsion_title = 等离子推进器
+		#LOC_CTT_plasmaPropulsion_description = 我们已经发现物质的第四种状态！处理它只是非常危险。
+
+		#LOC_CTT_advEMSystems_title = 先进的等离子推进器
+		#LOC_CTT_advEMSystems_description = 学习电力与磁体的行为之后，我们现在可以利用这些研究结果直接灼热的热气喷射。
+	
+		#LOC_CTT_specializedPlasmaGeneration_title = 专业
+		#LOC_CTT_specializedPlasmaGeneration_description = 用于产生，限制并货币高能量等离子体的先进技术。
+
+		#LOC_CTT_exoticPlasmaPropulsion_title = 异域等离子推进器
+		#LOC_CTT_exoticPlasmaPropulsion_description = 虽然等离子本身是物质的异国情调的状态，我们能想到的一些外来的方式来使用这种奇异性质。
+
+		#LOC_KSPIE_extremePlasmaPropulsion_title = 至尊等离子推进器
+		#LOC_KSPIE_extremePlasmaPropulsion_description = 推等离子体推进到了极点。
+
+		#LOC_CTT_advGriddedThrusters_title = 先进的静电推进器
+		#LOC_CTT_advGriddedThrusters_description = 一些工程师想叫这个价的推进，但幸运的是我们说服他们不要这个想法结合。
+
+		#LOC_CTT_expGriddedThrusters_title = 实验静电推进器
+		#LOC_CTT_expGriddedThrusters_description = 在第三千年的黑暗的未来，只有离子推进。
+
+		#LOC_CTT_advSolarTech_title = 高级太阳能技术
+		#LOC_CTT_advSolarTech_description = 镜头的发现，我们的电气工程师，亦复有关太阳能发电的可能性。
+
+		#LOC_CTT_advPVMaterials_title = 高级光伏材料
+		#LOC_CTT_advPVMaterials_description = 新的，更强，故意柔韧的光伏电池！
+
+		#LOC_CTT_microwavePowerTransmission_title = 微波传送
+		#LOC_CTT_microwavePowerTransmission_description = 使用很长的电缆，我们计划......不，只是在开玩笑。
+
+		#LOC_KSPIE_specializedPVMaterials_title = 专门光伏材料
+		#LOC_KSPIE_specializedPVMaterials_description = 更专业的光伏电池！
+
+		#LOC_KSPIE_expPVMaterials_title = 实验光伏材料
+		#LOC_KSPIE_expPVMaterials_description = 高度实验性的光伏电池！
+		
+		#LOC_KSPIE_exoticPVMaterials_title = 异域光伏材料
+		#LOC_KSPIE_exoticPVMaterials_description = 谁不希望异国光伏电池！
+
+		#LOC_KSPIE_extremePVMaterials_title = 至尊光伏材料
+		#LOC_KSPIE_extremePVMaterials_description = 在光伏电池的终极！
+
+		#LOC_CTT_cuttingEdgeSolarTech_title = 尖端的太阳能科技
+		#LOC_CTT_cuttingEdgeSolarTech_description = 这些新面板在现实中良好接地。
+
+		#LOC_CTT_exoticSolarTech_title = 异域太阳能科技
+		#LOC_CTT_exoticSolarTech_description = 它可以折叠，它弯曲，它的价格便宜，你可以把它放在任何地方！
+
+		#LOC_CTT_highTechElectricalSystems_title = 高科技电子系统
+		#LOC_CTT_highTechElectricalSystems_description = 统一电气系统用于分配和功率。
+
+		#LOC_CTT_highPowerElectricalSystems_title = 高功率电气系统
+		#LOC_CTT_highPowerElectricalSystems_description = 通过船舶，站和基地分布兆瓦的电力，需要先进的布线技术。
+
+		#LOC_CTT_experimentalElectricalSystems_title = 实验电气系统
+		#LOC_CTT_experimentalElectricalSystems_description = 接线盒，开关供电，绝缘电缆...男人，这个配电事情是复杂的！
+
+		#LOC_CTT_exoticElectricalSystems_title = 异域的电气系统
+		#LOC_CTT_exoticElectricalSystems_description = 超高科技的输配电系统的最先进的航天器。
+
+		#LOC_KSPIE_extremeElectricalSystems_title = 至尊电气系统
+		#LOC_KSPIE_extremeElectricalSystems_description = 非常高科技的为最先进的航天器输电和配电系统。
+
+		#LOC_CTT_heatManagementSystems_title = 热管理系统
+		#LOC_CTT_heatManagementSystems_description = 研究热辐射，以保持零食过热。
+
+		#LOC_CTT_advHeatManagement_title = 高级散热管理
+		#LOC_CTT_advHeatManagement_description = 更先进的热管理技术，以保持在/C运行。
+
+		#LOC_CTT_specializedRadiators_title = 专门热量管理
+		#LOC_CTT_specializedRadiators_description = 立即释放令人印象深刻的，笨重的散热器！
+
+		#LOC_CTT_exoticRadiators_title = 异域热量管理
+		#LOC_CTT_exoticRadiators_description = 研究特殊材料和用于散热的技术。
+
+		#LOC_KSPIE_extremeRadiators_title = 极热管理
+		#LOC_KSPIE_extremeRadiators_description = 研究极端高温材料及排热技术。
+
+		#LOC_CTT_recycling_title = 回收
+		#LOC_CTT_recycling_description = 稀释性，可重复使用，可回收利用的技术。
+
+		#LOC_CTT_hydroponics_title = 水培
+		#LOC_CTT_hydroponics_description = 成长的事情而不会弄脏！
+
+		#LOC_CTT_shortTermHabitation_title = 短期居住
+		#LOC_CTT_shortTermHabitation_description =  A商店页面，老虎，斑马，黑猩猩和鬣狗都走进太空舱...	
+
+		#LOC_CTT_longTermHabitation_title = 长期居住
+		#LOC_CTT_longTermHabitation_description = 高级心理和物质的研究，致力于小绿人的进步。
+
+		#LOC_CTT_colonization_title = 定植
+		#LOC_CTT_colonization_description = 当通过随机爆炸传播小绿人是不够的。
+
+		#LOC_CTT_advColonization_title = 高级定植
+		#LOC_CTT_advColonization_description = 一切你需要一个完全独立的商店页面殖民努力-只需加水！
+
+		#LOC_CTT_storageTech_title = 存储技术
+		#LOC_CTT_storageTech_description = 对于那些时候，一个纸箱也做不了！
+
+		#LOC_CTT_logistics_title = 物流
+		#LOC_CTT_logistics_description = 制作更大，更好的纸箱！
+
+		#LOC_CTT_advLogistics_title = 高级物流
+		#LOC_CTT_advLogistics_description = 从一个地方移动箱的地方......在空间！
+
+		#LOC_CTT_specializedCommandCenters_title = 专业指挥中心
+		#LOC_CTT_specializedCommandCenters_description = 
+
+		#LOC_CTT_heavyCommandCenters_title = 重指挥中心
+		#LOC_CTT_heavyCommandCenters_description = 
+	}
+}
